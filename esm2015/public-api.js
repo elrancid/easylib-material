@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of material
+ */
+export * from './lib/material.service';
+export * from './lib/material.component';
+export * from './lib/material.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIuLi8uLi8uLi8uLi9wcm9qZWN0cy9lYXN5bGliL21hdGVyaWFsL3NyYy8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLHdCQUF3QixDQUFDO0FBQ3ZDLGNBQWMsMEJBQTBCLENBQUM7QUFDekMsY0FBYyx1QkFBdUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbWF0ZXJpYWxcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYXRlcmlhbC5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21hdGVyaWFsLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYXRlcmlhbC5tb2R1bGUnO1xuIl19
